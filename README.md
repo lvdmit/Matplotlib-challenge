@@ -2,10 +2,10 @@
 This project analyzes and interprets data records of an imagenary ride sharing company. 
 The final report includes the following plots:
 
-![Bubble Plot of Ride Sharing Dat](Matplotlib-challenge/average_fare.png)
-![Total Fares by City Type](Matplotlib-challenge/fares_by_type.png)
-![Total Drivers by City Type](Matplotlib-challenge/drivers_by_type.png)
-![Total Rides by City Type](Matplotlib-challenge/rides_by_type.png)
+* Bubble Plot of Ride Sharing Dat
+* Total Fares by City Type
+* Total Drivers by City Type
+* Total Rides by City Type
 
 
 This project was completed using the pandas and Matplotlib libraries, and Jupiter Notebook.
